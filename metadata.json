@@ -1,0 +1,8 @@
+{
+  "name": "Viamar | Agencia de Viajes",
+  "description": "Peregrinaciones y viajes premium diseñados a tu medida: Camino de Santiago, Italia, circuitos y Eurotrip. Desde Monterrey y todo México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
